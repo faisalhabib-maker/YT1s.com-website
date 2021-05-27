@@ -1,0 +1,3 @@
+  parseInt();    er vetore kono var("20") dile number a convert hove
+	
+  parseFloat();   ("20.5") ei rokom var number a convert korbe
